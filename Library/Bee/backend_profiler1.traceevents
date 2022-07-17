@@ -1,0 +1,533 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1657898788189890, "dur":1090, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898788190991, "dur":84, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1657898788191117, "dur":26, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1657898788191146, "dur":611, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1657898788191801, "dur":2034, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898788193835, "dur":4, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927335, "dur":224, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927559, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927576, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927579, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927589, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927592, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927600, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927602, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927609, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927612, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927619, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927622, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927629, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927632, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927639, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927642, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927650, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927667, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790927761, "dur":1189, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1657898788192862, "dur":1004, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788193873, "dur":3647, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788197553, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657898788197560, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788198865, "dur":255, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657898788199124, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657898788199151, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788199316, "dur":7693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657898788207014, "dur":27677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1657898788234698, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788234709, "dur":895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1657898788235631, "dur":17651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1657898788253288, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788253301, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1657898788254136, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1657898788254181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788254189, "dur":325662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1657898788579875, "dur":62932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898788642825, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898788642969, "dur":544372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789187374, "dur":49734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789237115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789237124, "dur":2993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789240142, "dur":38374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789278521, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789278534, "dur":1275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789279835, "dur":47446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789327286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789327293, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789328338, "dur":167855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789496216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789496223, "dur":23713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789519960, "dur":27887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789547855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789547865, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789549170, "dur":837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789550011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789550018, "dur":12503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789562537, "dur":592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789563134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789563141, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789564047, "dur":35878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789599964, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789599975, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789600731, "dur":94466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789695201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789695209, "dur":1047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789696276, "dur":48623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789744903, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789744914, "dur":18576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789763515, "dur":69817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789833339, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789833354, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789835619, "dur":71655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789907285, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898789907300, "dur":2155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898789909477, "dur":173775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790083256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898790083264, "dur":774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790084061, "dur":194151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790278219, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898790278229, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790279417, "dur":169406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790448829, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898790448839, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790449849, "dur":49490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790499345, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898790499359, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790500215, "dur":171318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790671541, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657898790671555, "dur":3216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657898790674792, "dur":252556, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788192970, "dur":925, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788193896, "dur":3653, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788197550, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1657898788197646, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788199284, "dur":50152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1657898788249460, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1657898788249505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788249934, "dur":157941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1657898788407906, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1657898788407965, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788407978, "dur":9981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1657898788417985, "dur":211781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1657898788629774, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898788629783, "dur":555332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1657898789185130, "dur":75009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789260143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789260151, "dur":735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789260905, "dur":85202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789346114, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789346124, "dur":932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789347078, "dur":62286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789409371, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789409411, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789410618, "dur":29946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789440571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789440581, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789441396, "dur":43707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789485109, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789485118, "dur":33837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789518971, "dur":29483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789548459, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789548468, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789549460, "dur":71733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789621207, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789621227, "dur":1691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789622964, "dur":36467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789659437, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789659469, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789660937, "dur":53566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789714510, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789714535, "dur":30053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789744613, "dur":101519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789846139, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789846166, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789847284, "dur":75364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789922658, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898789922671, "dur":2648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898789925342, "dur":441484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898790366832, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898790366842, "dur":940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898790367819, "dur":198109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898790565932, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898790565941, "dur":1095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657898790574298, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1657898790574431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898790576187, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":2, "ts":1657898790576969, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1657898790576988, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657898790576994, "dur":55408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1657898790632423, "dur":294941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788192954, "dur":927, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788193881, "dur":3653, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788197551, "dur":210926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1657898788408483, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788408968, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1657898788410765, "dur":208169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898788618941, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788618993, "dur":11652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898788630673, "dur":38445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898788669125, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898788669135, "dur":517349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789186504, "dur":63788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789250299, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789250309, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789251198, "dur":40200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789291403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789291411, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789292160, "dur":205266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789497430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789497438, "dur":29363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789526824, "dur":6470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789533300, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789533310, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789534172, "dur":794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789534971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789534979, "dur":4217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789539220, "dur":154852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789694079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789694089, "dur":49845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789743958, "dur":46286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789790248, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789790257, "dur":747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789791020, "dur":34988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789826014, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789826023, "dur":829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789826872, "dur":35895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789862773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898789862813, "dur":26019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898789888886, "dur":334735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790223634, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790223655, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790225268, "dur":64342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790289617, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790289628, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790290714, "dur":56776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790347496, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790347506, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790348342, "dur":59672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790408020, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790408030, "dur":859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790408910, "dur":144512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790553430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790553441, "dur":3188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790556653, "dur":305914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790862571, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657898790862579, "dur":847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657898790863440, "dur":63898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898788193031, "dur":876, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898788193908, "dur":3634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898788197553, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1657898788197648, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898788199833, "dur":50324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1657898788250201, "dur":159238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1657898788409453, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898788409474, "dur":1307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1657898788410803, "dur":1299633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789710442, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898789710451, "dur":62027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789772533, "dur":78693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789851233, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898789851243, "dur":1163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789852425, "dur":36384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789888818, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898789888839, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789890306, "dur":72074, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789962386, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898789962396, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898789963251, "dur":94199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790057465, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790057487, "dur":2274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790059782, "dur":805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790060592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790060601, "dur":639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790061259, "dur":120362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790181628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790181638, "dur":912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790182570, "dur":138413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790321408, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790321434, "dur":2300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790323762, "dur":249950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790573718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790573728, "dur":2803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657898790576550, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1657898790576599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790576620, "dur":1020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1657898790577658, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1657898790577766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790577772, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1657898790578686, "dur":1101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1657898790579794, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790579805, "dur":854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1657898790580692, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1657898790580714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790580721, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1657898790581724, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657898790581742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790581748, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657898790582463, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1657898790582578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790582584, "dur":713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1657898790583313, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1657898790583329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790583335, "dur":662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1657898790584016, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657898790584036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790584041, "dur":917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657898790584977, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1657898790584998, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790585004, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1657898790585778, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1657898790585894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657898790585901, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1657898790586744, "dur":340585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788193091, "dur":828, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788193919, "dur":3627, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788197553, "dur":30535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1657898788228103, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788228137, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1657898788229091, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1657898788229134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788229157, "dur":21657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1657898788250846, "dur":16856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1657898788267710, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788267722, "dur":140346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1657898788408094, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1657898788408150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788408163, "dur":28486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1657898788436675, "dur":49401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures.exe" }}
+,{ "pid":12345, "tid":5, "ts":1657898788486082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788486089, "dur":3061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures.exe" }}
+,{ "pid":12345, "tid":5, "ts":1657898788489250, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1657898788489453, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898788489884, "dur":702062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1657898789191969, "dur":33412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789225389, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789225401, "dur":9046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789234468, "dur":38720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789273196, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789273207, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789275166, "dur":107812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789382984, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789382994, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789384316, "dur":64645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789448967, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789448976, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789449771, "dur":31499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789481277, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789481288, "dur":37375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789518703, "dur":30724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789549432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789549441, "dur":12857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789562322, "dur":54134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789616463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789616486, "dur":851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789617357, "dur":133395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Monetization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789750763, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789750774, "dur":39042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Monetization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789789837, "dur":70005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789859850, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898789859862, "dur":33843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898789893736, "dur":137304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790031049, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790031062, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790032178, "dur":836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790033018, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790033027, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790034078, "dur":6491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790040584, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790040606, "dur":2536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790043164, "dur":48157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790091329, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790091365, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790092352, "dur":258263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790350621, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790350630, "dur":1217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790351866, "dur":190298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790542171, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790542183, "dur":2285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790544492, "dur":379004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790923502, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657898790923512, "dur":3770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657898790927298, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1657898790927300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788193144, "dur":789, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788193933, "dur":3620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788197554, "dur":50218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657898788247779, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788247790, "dur":2607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657898788250420, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1657898788250464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788250489, "dur":159363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1657898788409894, "dur":78981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898788488885, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788490780, "dur":4518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898788495329, "dur":148496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898788643831, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898788643841, "dur":549036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789193030, "dur":230118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789423154, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789423164, "dur":1149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789424332, "dur":73179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789497517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789497523, "dur":22218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789519761, "dur":53113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789572881, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789572892, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789575393, "dur":35681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789611084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789611094, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789611923, "dur":82511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789694438, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789694447, "dur":38791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789733264, "dur":40002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789773272, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789773283, "dur":16701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789790001, "dur":159364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789949371, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789949382, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789951130, "dur":4728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789956304, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898789956467, "dur":2073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898789958565, "dur":73091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790031660, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790031668, "dur":746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790032432, "dur":688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790033124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790033131, "dur":781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790033933, "dur":48118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790082057, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790082066, "dur":842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790082928, "dur":99023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790181956, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790181964, "dur":860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790182842, "dur":109300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790292160, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790292186, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790293821, "dur":282089, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790575916, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790575926, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657898790577366, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1657898790577386, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657898790577392, "dur":40044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1657898790617456, "dur":309919, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898788193208, "dur":737, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898788193946, "dur":3610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898788197556, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1657898788197644, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898788199333, "dur":987378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1657898789186734, "dur":38771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789225509, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789225517, "dur":8844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789234382, "dur":43345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789277752, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789277763, "dur":845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789278630, "dur":48559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789327195, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789327205, "dur":12600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789339830, "dur":31314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789371151, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789371162, "dur":4127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789375307, "dur":133716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789509032, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789509054, "dur":10827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789519913, "dur":27935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789547854, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789547865, "dur":1062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789548947, "dur":799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789549750, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789549757, "dur":12553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789562339, "dur":671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789563014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789563022, "dur":698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789563737, "dur":1151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789564893, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789564903, "dur":895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789565819, "dur":59229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789625059, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789625075, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789627011, "dur":36814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789663831, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789663842, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789665127, "dur":207830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789872966, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898789872979, "dur":29647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898789902648, "dur":139525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790042182, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898790042197, "dur":18448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790060663, "dur":6842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790067512, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898790067522, "dur":4998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790072544, "dur":426018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790498568, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898790498577, "dur":3818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790502417, "dur":63005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790565428, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898790565437, "dur":1118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790566573, "dur":84377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790650958, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657898790650976, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657898790652743, "dur":274614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788193267, "dur":693, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788193960, "dur":3608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788197569, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1657898788197645, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788199489, "dur":49147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1657898788248690, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1657898788248747, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788248760, "dur":310727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1657898788559535, "dur":71394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898788630933, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898788631124, "dur":555391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789186533, "dur":72152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789258695, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789258709, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789259912, "dur":30752, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789290670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789290680, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789291508, "dur":80914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789372433, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789372454, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789374612, "dur":56985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789431603, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789431612, "dur":824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789432467, "dur":51246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789483719, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789483730, "dur":35545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789519302, "dur":47118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789566424, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789566434, "dur":761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789567211, "dur":77279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789644497, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789644507, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789645546, "dur":40315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789685868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789685877, "dur":1383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789687305, "dur":56376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789743687, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789743730, "dur":46112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789789862, "dur":27102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789816970, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789817009, "dur":1365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789820492, "dur":39505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789860002, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789860011, "dur":940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789860979, "dur":98404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789959387, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898789959402, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898789960241, "dur":65902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790026149, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898790026158, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790027364, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790028172, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898790028183, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790028890, "dur":68970, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790097866, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898790097875, "dur":977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790098870, "dur":206967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790305843, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898790305855, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790309197, "dur":292781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790601985, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657898790601995, "dur":6019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Little Cat Adventure3/bb/Potit_Chat_Adventures_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657898790608040, "dur":319352, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657898790930268, "dur":3362, "ph":"X", "name": "ProfilerWriteOutput" }
+,
